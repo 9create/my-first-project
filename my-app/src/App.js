@@ -11,6 +11,9 @@ function App() {
 </p>
 <h2>Welcome to Codespaces</h2>
 <h2>React is amazing!</h2>
+<h3 style={{color: 'orange'}}>Version Control is Amazing!</h3>
+<p>This is my second version of the app</p>
+<button onClick={() => alert('Hello!')}>Click Me!</button>
         <a
           className="App-link"
           href="https://reactjs.org"
