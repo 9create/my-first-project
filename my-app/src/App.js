@@ -13,7 +13,9 @@ function App() {
 <h2>React is amazing!</h2>
 <h3 style={{color: 'orange'}}>Version Control is Amazing!</h3>
 <p>This is my second version of the app</p>
-<button onClick={() => alert('Hello!')}>Click Me!</button>
+<button style={{backgroundColor: 'green', color: 'white', padding: '10px 20px'}} onClick={() => alert('Hello!')}>
+  Click Me!
+</button>npm
         <a
           className="App-link"
           href="https://reactjs.org"
